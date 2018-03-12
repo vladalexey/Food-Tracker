@@ -8,11 +8,11 @@
 
 /* Begin PBXBuildFile section */
 		82CF95312044B7F500D50508 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82CF95302044B7F500D50508 /* AppDelegate.swift */; };
-		82CF95332044B7F500D50508 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82CF95322044B7F500D50508 /* ViewController.swift */; };
 		82CF95362044B7F500D50508 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 82CF95342044B7F500D50508 /* Main.storyboard */; };
 		82CF95382044B7F500D50508 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 82CF95372044B7F500D50508 /* Assets.xcassets */; };
 		82CF953B2044B7F500D50508 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 82CF95392044B7F500D50508 /* LaunchScreen.storyboard */; };
 		82CF95462044B7F500D50508 /* Food_TrackerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82CF95452044B7F500D50508 /* Food_TrackerTests.swift */; };
+		82FA00072045A31300BE3587 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82CF95322044B7F500D50508 /* ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -199,7 +199,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				82CF95332044B7F500D50508 /* ViewController.swift in Sources */,
+				82FA00072045A31300BE3587 /* ViewController.swift in Sources */,
 				82CF95312044B7F500D50508 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
